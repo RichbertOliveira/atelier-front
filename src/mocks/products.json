@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Banquetinha Rustica",
+    "description": "Tronco de madeira escupido em um banquinho",
+    "img": "../assets/products/product1.png"
+  },
+  {
+    "id": 2,
+    "title": "Quadro de madeira Violão",
+    "description": "Lindo quadro esculpido com madeira com desenho de um violão",
+    "img": "../assets/products/product2.png"
+  },
+  {
+    "id": 3,
+    "title": "Quadro com Relevo",
+    "description": "Lindo quadro esculpido com madeira, com relevo de letras",
+    "img": "../assets/products/product3.png"
+  }
+]

@@ -1,0 +1,53 @@
+@import url('http://fonts.cdnfonts.com/css/rustic');
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+.primary-color {
+  color: #954535 !important;
+}
+
+.background-primary-color {
+  background-color: #954535 !important;
+}
+
+.rustic-font {
+  font-family: 'Rustic', sans-serif;
+}
+
+.courier-font {
+  font-family: 'Muli', sans-serif;
+}
+
+.title-about {
+  color: white;
+  width: 100%;
+  background-color: #69140e;
+  background-image: linear-gradient(315deg, #69140e 0%, #d58936 74%);
+}
+
+.img-about {
+  border-radius: 15px;
+  width: 95%;
+  float: right;
+}
+
+.border-col {
+  border-style: double;
+  border-color: #69140e;
+  border-radius: 20px;
+}
+
+.card-box {
+  width: 100%;
+  background-color: #ffff;
+}
+
+.limit-ch {
+  max-width: 25ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pointer {
+  cursor: pointer;
+}
