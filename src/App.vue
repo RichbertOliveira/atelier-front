@@ -20,5 +20,6 @@ export default {
 <style lang="scss">
 #app {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  zoom: 85%;
 }
 </style>

@@ -12,21 +12,11 @@
           class="shadow"
         >
           <b-carousel-slide
-            caption="First slide"
-            text="Nulla vitae elit libero, a pharetra augue mollis interdum."
-            img-src="https://images.wallpaperscraft.com/image/single/texture_wooden_wood_153268_2560x1080.jpg"
+            :img-src="require('../assets/carousel/4.jpeg')"
           ></b-carousel-slide>
 
           <b-carousel-slide
-            caption="Second slide"
-            text="Nulla vitae elit libero, a pharetra augue mollis interdum."
-            img-src="https://images.hdqwalls.com/download/floor-wood-5k-q4-2560x1080.jpg"
-          ></b-carousel-slide>
-
-          <b-carousel-slide
-            caption="Third slide"
-            text="Nulla vitae elit libero, a pharetra augue mollis interdum."
-            img-src="https://a-static.besthdwallpaper.com/dia-dos-namorados-madeira-pares-coracao-decoracao-papel-de-parede-2560x1080-14226_14.jpg"
+            :img-src="require('../assets/carousel/5.jpeg')"
           ></b-carousel-slide>
         </b-carousel>
       </div>
