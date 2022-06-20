@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const URL = 'http://localhost:3000'
+const URL = 'https://chipper-semolina-a893f4.netlify.app:3000'
 
 let axiosConfig = {
   headers: {
